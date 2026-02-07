@@ -5,12 +5,15 @@ const { spawn } = require("child_process");
 
 const router = express.Router();
 
-
 // Correct dataset paths
 const USERS_PATH = path.join(__dirname, "..", "..", "dataset", "users.json");
-const TX_PATH = path.join(__dirname, "..", "..", "dataset", "transactions.json");
-
-
+const TX_PATH = path.join(
+  __dirname,
+  "..",
+  "..",
+  "dataset",
+  "transactions.json",
+);
 
 let users = [];
 let transactions = [];
@@ -45,7 +48,12 @@ router.get("/", (req, res) => {
 router.get("/:id", (req, res) => {
   const userId = req.params.id;
 
-  const user = users.find((u) => u.userId === userId);
+  console.log("Requested userId:", `[${userId}]`);
+
+  const user = users.find(
+    (u) => u.userId?.trim().toUpperCase() === userId.trim().toUpperCase(),
+  );
+
   if (!user) {
     return res.status(404).json({ error: "User not found" });
   }
@@ -59,14 +67,14 @@ router.get("/:id", (req, res) => {
   // Call Python batch prediction
   const pyScript = path.join(__dirname, "..", "predict_user_transactions.py");
 
-// Ensure temp file folder exists
-const datasetDir = path.join(__dirname, "..", "..", "dataset");
-if (!fs.existsSync(datasetDir)) fs.mkdirSync(datasetDir, { recursive: true });
+  // Ensure temp file folder exists
+  const datasetDir = path.join(__dirname, "..", "..", "dataset");
+  if (!fs.existsSync(datasetDir)) fs.mkdirSync(datasetDir, { recursive: true });
 
-const txFile = path.join(datasetDir, `tmp_${userId}.json`);
-fs.writeFileSync(txFile, JSON.stringify(userTx, null, 2));
+  const txFile = path.join(datasetDir, `tmp_${userId}.json`);
+  fs.writeFileSync(txFile, JSON.stringify(userTx, null, 2));
 
-const py = spawn("python", [pyScript, txFile]);
+  const py = spawn("python", [pyScript, txFile]);
 
   let stdout = "";
   let stderr = "";
