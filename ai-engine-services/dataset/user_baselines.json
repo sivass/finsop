@@ -1,0 +1,1302 @@
+[
+  {
+    "userId": "USR-001",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2231.07,
+      "stdAmount": 1390.54,
+      "txPerDay": 0.55,
+      "nightRatio": 0.21,
+      "newRecipientRatio": 0.17,
+      "geoEntropy": 0.1
+    },
+    "lastUpdated": "2026-02-07T13:53:27.878443"
+  },
+  {
+    "userId": "USR-002",
+    "accountType": "RETIRED",
+    "baseline": {
+      "avgAmount": 244.97,
+      "stdAmount": 269.74,
+      "txPerDay": 0.55,
+      "nightRatio": 0.27,
+      "newRecipientRatio": 0.2,
+      "geoEntropy": 0.89
+    },
+    "lastUpdated": "2026-02-07T13:53:27.911840"
+  },
+  {
+    "userId": "USR-003",
+    "accountType": "FINANCE",
+    "baseline": {
+      "avgAmount": 1650.08,
+      "stdAmount": 1119.43,
+      "txPerDay": 0.55,
+      "nightRatio": 0.28,
+      "newRecipientRatio": 0.17,
+      "geoEntropy": 0.96
+    },
+    "lastUpdated": "2026-02-07T13:53:27.943284"
+  },
+  {
+    "userId": "USR-004",
+    "accountType": "STUDENT",
+    "baseline": {
+      "avgAmount": 114.31,
+      "stdAmount": 108.18,
+      "txPerDay": 0.55,
+      "nightRatio": 0.3,
+      "newRecipientRatio": 0.21,
+      "geoEntropy": 0.93
+    },
+    "lastUpdated": "2026-02-07T13:53:27.974165"
+  },
+  {
+    "userId": "USR-005",
+    "accountType": "RETIRED",
+    "baseline": {
+      "avgAmount": 226.44,
+      "stdAmount": 191.36,
+      "txPerDay": 0.55,
+      "nightRatio": 0.32,
+      "newRecipientRatio": 0.23,
+      "geoEntropy": 0.11
+    },
+    "lastUpdated": "2026-02-07T13:53:28.007991"
+  },
+  {
+    "userId": "USR-006",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2589.33,
+      "stdAmount": 2828.33,
+      "txPerDay": 0.55,
+      "nightRatio": 0.28,
+      "newRecipientRatio": 0.19,
+      "geoEntropy": 0.11
+    },
+    "lastUpdated": "2026-02-07T13:53:28.039034"
+  },
+  {
+    "userId": "USR-007",
+    "accountType": "FINANCE",
+    "baseline": {
+      "avgAmount": 1624.64,
+      "stdAmount": 958.49,
+      "txPerDay": 0.55,
+      "nightRatio": 0.33,
+      "newRecipientRatio": 0.2,
+      "geoEntropy": 0.94
+    },
+    "lastUpdated": "2026-02-07T13:53:28.068196"
+  },
+  {
+    "userId": "USR-008",
+    "accountType": "STUDENT",
+    "baseline": {
+      "avgAmount": 126.03,
+      "stdAmount": 133.5,
+      "txPerDay": 0.55,
+      "nightRatio": 0.29,
+      "newRecipientRatio": 0.18,
+      "geoEntropy": 0.09
+    },
+    "lastUpdated": "2026-02-07T13:53:28.097971"
+  },
+  {
+    "userId": "USR-009",
+    "accountType": "STUDENT",
+    "baseline": {
+      "avgAmount": 125.93,
+      "stdAmount": 133.05,
+      "txPerDay": 0.55,
+      "nightRatio": 0.29,
+      "newRecipientRatio": 0.23,
+      "geoEntropy": 0.09
+    },
+    "lastUpdated": "2026-02-07T13:53:28.132971"
+  },
+  {
+    "userId": "USR-010",
+    "accountType": "FINANCE",
+    "baseline": {
+      "avgAmount": 1793.74,
+      "stdAmount": 2169.45,
+      "txPerDay": 0.55,
+      "nightRatio": 0.33,
+      "newRecipientRatio": 0.23,
+      "geoEntropy": 0.06
+    },
+    "lastUpdated": "2026-02-07T13:53:28.167402"
+  },
+  {
+    "userId": "USR-011",
+    "accountType": "STUDENT",
+    "baseline": {
+      "avgAmount": 115.33,
+      "stdAmount": 102.66,
+      "txPerDay": 0.55,
+      "nightRatio": 0.23,
+      "newRecipientRatio": 0.17,
+      "geoEntropy": 0.1
+    },
+    "lastUpdated": "2026-02-07T13:53:28.199709"
+  },
+  {
+    "userId": "USR-012",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2318.19,
+      "stdAmount": 2493.42,
+      "txPerDay": 0.55,
+      "nightRatio": 0.31,
+      "newRecipientRatio": 0.2,
+      "geoEntropy": 0.92
+    },
+    "lastUpdated": "2026-02-07T13:53:28.254436"
+  },
+  {
+    "userId": "USR-013",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2169.11,
+      "stdAmount": 1151.18,
+      "txPerDay": 0.55,
+      "nightRatio": 0.28,
+      "newRecipientRatio": 0.21,
+      "geoEntropy": 0.1
+    },
+    "lastUpdated": "2026-02-07T13:53:28.292364"
+  },
+  {
+    "userId": "USR-014",
+    "accountType": "RETIRED",
+    "baseline": {
+      "avgAmount": 256.82,
+      "stdAmount": 322.3,
+      "txPerDay": 0.55,
+      "nightRatio": 0.26,
+      "newRecipientRatio": 0.23,
+      "geoEntropy": 0.9
+    },
+    "lastUpdated": "2026-02-07T13:53:28.321958"
+  },
+  {
+    "userId": "USR-015",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2055.91,
+      "stdAmount": 1393.39,
+      "txPerDay": 0.55,
+      "nightRatio": 0.27,
+      "newRecipientRatio": 0.19,
+      "geoEntropy": 0.94
+    },
+    "lastUpdated": "2026-02-07T13:53:28.351797"
+  },
+  {
+    "userId": "USR-016",
+    "accountType": "FINANCE",
+    "baseline": {
+      "avgAmount": 1745.11,
+      "stdAmount": 1901.78,
+      "txPerDay": 0.55,
+      "nightRatio": 0.28,
+      "newRecipientRatio": 0.16,
+      "geoEntropy": 0.9
+    },
+    "lastUpdated": "2026-02-07T13:53:28.379603"
+  },
+  {
+    "userId": "USR-017",
+    "accountType": "RETIRED",
+    "baseline": {
+      "avgAmount": 229.67,
+      "stdAmount": 213.41,
+      "txPerDay": 0.55,
+      "nightRatio": 0.26,
+      "newRecipientRatio": 0.23,
+      "geoEntropy": 0.93
+    },
+    "lastUpdated": "2026-02-07T13:53:28.408521"
+  },
+  {
+    "userId": "USR-018",
+    "accountType": "STUDENT",
+    "baseline": {
+      "avgAmount": 115.44,
+      "stdAmount": 108.77,
+      "txPerDay": 0.55,
+      "nightRatio": 0.26,
+      "newRecipientRatio": 0.2,
+      "geoEntropy": 0.93
+    },
+    "lastUpdated": "2026-02-07T13:53:28.438648"
+  },
+  {
+    "userId": "USR-019",
+    "accountType": "FINANCE",
+    "baseline": {
+      "avgAmount": 1592.16,
+      "stdAmount": 900.78,
+      "txPerDay": 0.55,
+      "nightRatio": 0.3,
+      "newRecipientRatio": 0.2,
+      "geoEntropy": 0.92
+    },
+    "lastUpdated": "2026-02-07T13:53:28.469203"
+  },
+  {
+    "userId": "USR-020",
+    "accountType": "STUDENT",
+    "baseline": {
+      "avgAmount": 124.93,
+      "stdAmount": 158.45,
+      "txPerDay": 0.55,
+      "nightRatio": 0.29,
+      "newRecipientRatio": 0.25,
+      "geoEntropy": 0.94
+    },
+    "lastUpdated": "2026-02-07T13:53:28.501457"
+  },
+  {
+    "userId": "USR-021",
+    "accountType": "FINANCE",
+    "baseline": {
+      "avgAmount": 1819.52,
+      "stdAmount": 1942.85,
+      "txPerDay": 0.55,
+      "nightRatio": 0.28,
+      "newRecipientRatio": 0.18,
+      "geoEntropy": 0.04
+    },
+    "lastUpdated": "2026-02-07T13:53:28.531938"
+  },
+  {
+    "userId": "USR-022",
+    "accountType": "STUDENT",
+    "baseline": {
+      "avgAmount": 104.64,
+      "stdAmount": 54.76,
+      "txPerDay": 0.55,
+      "nightRatio": 0.3,
+      "newRecipientRatio": 0.17,
+      "geoEntropy": 0.92
+    },
+    "lastUpdated": "2026-02-07T13:53:28.562086"
+  },
+  {
+    "userId": "USR-023",
+    "accountType": "FINANCE",
+    "baseline": {
+      "avgAmount": 1641.24,
+      "stdAmount": 954.28,
+      "txPerDay": 0.55,
+      "nightRatio": 0.28,
+      "newRecipientRatio": 0.21,
+      "geoEntropy": 0.92
+    },
+    "lastUpdated": "2026-02-07T13:53:28.596276"
+  },
+  {
+    "userId": "USR-024",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2108.06,
+      "stdAmount": 1203.44,
+      "txPerDay": 0.55,
+      "nightRatio": 0.31,
+      "newRecipientRatio": 0.2,
+      "geoEntropy": 0.07
+    },
+    "lastUpdated": "2026-02-07T13:53:28.627861"
+  },
+  {
+    "userId": "USR-025",
+    "accountType": "FINANCE",
+    "baseline": {
+      "avgAmount": 1749.67,
+      "stdAmount": 1781.22,
+      "txPerDay": 0.55,
+      "nightRatio": 0.24,
+      "newRecipientRatio": 0.17,
+      "geoEntropy": 0.09
+    },
+    "lastUpdated": "2026-02-07T13:53:28.658628"
+  },
+  {
+    "userId": "USR-026",
+    "accountType": "RETIRED",
+    "baseline": {
+      "avgAmount": 243.86,
+      "stdAmount": 242.48,
+      "txPerDay": 0.55,
+      "nightRatio": 0.27,
+      "newRecipientRatio": 0.18,
+      "geoEntropy": 0.94
+    },
+    "lastUpdated": "2026-02-07T13:53:28.688599"
+  },
+  {
+    "userId": "USR-027",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2132.58,
+      "stdAmount": 1103.94,
+      "txPerDay": 0.55,
+      "nightRatio": 0.3,
+      "newRecipientRatio": 0.23,
+      "geoEntropy": 0.89
+    },
+    "lastUpdated": "2026-02-07T13:53:28.720896"
+  },
+  {
+    "userId": "USR-028",
+    "accountType": "RETIRED",
+    "baseline": {
+      "avgAmount": 236.63,
+      "stdAmount": 215.22,
+      "txPerDay": 0.55,
+      "nightRatio": 0.28,
+      "newRecipientRatio": 0.18,
+      "geoEntropy": 0.93
+    },
+    "lastUpdated": "2026-02-07T13:53:28.750811"
+  },
+  {
+    "userId": "USR-029",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2468.38,
+      "stdAmount": 2331.95,
+      "txPerDay": 0.55,
+      "nightRatio": 0.27,
+      "newRecipientRatio": 0.2,
+      "geoEntropy": 0.93
+    },
+    "lastUpdated": "2026-02-07T13:53:28.780814"
+  },
+  {
+    "userId": "USR-030",
+    "accountType": "RETIRED",
+    "baseline": {
+      "avgAmount": 226.54,
+      "stdAmount": 169.09,
+      "txPerDay": 0.55,
+      "nightRatio": 0.25,
+      "newRecipientRatio": 0.18,
+      "geoEntropy": 0.11
+    },
+    "lastUpdated": "2026-02-07T13:53:28.811071"
+  },
+  {
+    "userId": "USR-031",
+    "accountType": "FINANCE",
+    "baseline": {
+      "avgAmount": 1892.29,
+      "stdAmount": 1983.16,
+      "txPerDay": 0.55,
+      "nightRatio": 0.34,
+      "newRecipientRatio": 0.17,
+      "geoEntropy": 0.1
+    },
+    "lastUpdated": "2026-02-07T13:53:28.840315"
+  },
+  {
+    "userId": "USR-032",
+    "accountType": "STUDENT",
+    "baseline": {
+      "avgAmount": 114.75,
+      "stdAmount": 101.64,
+      "txPerDay": 0.55,
+      "nightRatio": 0.28,
+      "newRecipientRatio": 0.17,
+      "geoEntropy": 0.12
+    },
+    "lastUpdated": "2026-02-07T13:53:28.870834"
+  },
+  {
+    "userId": "USR-033",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2219.94,
+      "stdAmount": 1616.44,
+      "txPerDay": 0.55,
+      "nightRatio": 0.23,
+      "newRecipientRatio": 0.23,
+      "geoEntropy": 0.1
+    },
+    "lastUpdated": "2026-02-07T13:53:28.908096"
+  },
+  {
+    "userId": "USR-034",
+    "accountType": "STUDENT",
+    "baseline": {
+      "avgAmount": 110.53,
+      "stdAmount": 65.36,
+      "txPerDay": 0.55,
+      "nightRatio": 0.32,
+      "newRecipientRatio": 0.23,
+      "geoEntropy": 0.1
+    },
+    "lastUpdated": "2026-02-07T13:53:28.939651"
+  },
+  {
+    "userId": "USR-035",
+    "accountType": "STUDENT",
+    "baseline": {
+      "avgAmount": 115.69,
+      "stdAmount": 101.68,
+      "txPerDay": 0.55,
+      "nightRatio": 0.26,
+      "newRecipientRatio": 0.26,
+      "geoEntropy": 0.1
+    },
+    "lastUpdated": "2026-02-07T13:53:28.974713"
+  },
+  {
+    "userId": "USR-036",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2177.73,
+      "stdAmount": 1108.09,
+      "txPerDay": 0.55,
+      "nightRatio": 0.34,
+      "newRecipientRatio": 0.2,
+      "geoEntropy": 0.11
+    },
+    "lastUpdated": "2026-02-07T13:53:29.009610"
+  },
+  {
+    "userId": "USR-037",
+    "accountType": "STUDENT",
+    "baseline": {
+      "avgAmount": 108.36,
+      "stdAmount": 87.63,
+      "txPerDay": 0.55,
+      "nightRatio": 0.34,
+      "newRecipientRatio": 0.2,
+      "geoEntropy": 0.12
+    },
+    "lastUpdated": "2026-02-07T13:53:29.044916"
+  },
+  {
+    "userId": "USR-038",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2139.74,
+      "stdAmount": 1721.31,
+      "txPerDay": 0.55,
+      "nightRatio": 0.28,
+      "newRecipientRatio": 0.19,
+      "geoEntropy": 0.93
+    },
+    "lastUpdated": "2026-02-07T13:53:29.073218"
+  },
+  {
+    "userId": "USR-039",
+    "accountType": "RETIRED",
+    "baseline": {
+      "avgAmount": 217.82,
+      "stdAmount": 170.14,
+      "txPerDay": 0.55,
+      "nightRatio": 0.28,
+      "newRecipientRatio": 0.17,
+      "geoEntropy": 0.93
+    },
+    "lastUpdated": "2026-02-07T13:53:29.101025"
+  },
+  {
+    "userId": "USR-040",
+    "accountType": "STUDENT",
+    "baseline": {
+      "avgAmount": 112.66,
+      "stdAmount": 91.97,
+      "txPerDay": 0.55,
+      "nightRatio": 0.32,
+      "newRecipientRatio": 0.18,
+      "geoEntropy": 0.93
+    },
+    "lastUpdated": "2026-02-07T13:53:29.135362"
+  },
+  {
+    "userId": "USR-041",
+    "accountType": "RETIRED",
+    "baseline": {
+      "avgAmount": 231.14,
+      "stdAmount": 203.66,
+      "txPerDay": 0.55,
+      "nightRatio": 0.34,
+      "newRecipientRatio": 0.11,
+      "geoEntropy": 0.92
+    },
+    "lastUpdated": "2026-02-07T13:53:29.169093"
+  },
+  {
+    "userId": "USR-042",
+    "accountType": "STUDENT",
+    "baseline": {
+      "avgAmount": 109.0,
+      "stdAmount": 62.55,
+      "txPerDay": 0.55,
+      "nightRatio": 0.28,
+      "newRecipientRatio": 0.21,
+      "geoEntropy": 0.12
+    },
+    "lastUpdated": "2026-02-07T13:53:29.201235"
+  },
+  {
+    "userId": "USR-043",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2454.43,
+      "stdAmount": 2167.62,
+      "txPerDay": 0.55,
+      "nightRatio": 0.27,
+      "newRecipientRatio": 0.18,
+      "geoEntropy": 0.11
+    },
+    "lastUpdated": "2026-02-07T13:53:29.233767"
+  },
+  {
+    "userId": "USR-044",
+    "accountType": "RETIRED",
+    "baseline": {
+      "avgAmount": 239.41,
+      "stdAmount": 245.16,
+      "txPerDay": 0.55,
+      "nightRatio": 0.29,
+      "newRecipientRatio": 0.2,
+      "geoEntropy": 0.11
+    },
+    "lastUpdated": "2026-02-07T13:53:29.264875"
+  },
+  {
+    "userId": "USR-045",
+    "accountType": "STUDENT",
+    "baseline": {
+      "avgAmount": 115.28,
+      "stdAmount": 82.94,
+      "txPerDay": 0.55,
+      "nightRatio": 0.28,
+      "newRecipientRatio": 0.18,
+      "geoEntropy": 0.92
+    },
+    "lastUpdated": "2026-02-07T13:53:29.296542"
+  },
+  {
+    "userId": "USR-046",
+    "accountType": "RETIRED",
+    "baseline": {
+      "avgAmount": 218.94,
+      "stdAmount": 215.45,
+      "txPerDay": 0.55,
+      "nightRatio": 0.28,
+      "newRecipientRatio": 0.22,
+      "geoEntropy": 0.1
+    },
+    "lastUpdated": "2026-02-07T13:53:29.336804"
+  },
+  {
+    "userId": "USR-047",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2038.44,
+      "stdAmount": 809.54,
+      "txPerDay": 0.55,
+      "nightRatio": 0.26,
+      "newRecipientRatio": 0.18,
+      "geoEntropy": 0.92
+    },
+    "lastUpdated": "2026-02-07T13:53:29.388981"
+  },
+  {
+    "userId": "USR-048",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2356.17,
+      "stdAmount": 1991.58,
+      "txPerDay": 0.55,
+      "nightRatio": 0.27,
+      "newRecipientRatio": 0.2,
+      "geoEntropy": 0.1
+    },
+    "lastUpdated": "2026-02-07T13:53:29.429711"
+  },
+  {
+    "userId": "USR-049",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2275.92,
+      "stdAmount": 1954.02,
+      "txPerDay": 0.55,
+      "nightRatio": 0.29,
+      "newRecipientRatio": 0.12,
+      "geoEntropy": 0.91
+    },
+    "lastUpdated": "2026-02-07T13:53:29.458345"
+  },
+  {
+    "userId": "USR-050",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2242.58,
+      "stdAmount": 1994.21,
+      "txPerDay": 0.55,
+      "nightRatio": 0.26,
+      "newRecipientRatio": 0.15,
+      "geoEntropy": 0.08
+    },
+    "lastUpdated": "2026-02-07T13:53:29.489767"
+  },
+  {
+    "userId": "USR-051",
+    "accountType": "STUDENT",
+    "baseline": {
+      "avgAmount": 123.36,
+      "stdAmount": 133.35,
+      "txPerDay": 0.55,
+      "nightRatio": 0.32,
+      "newRecipientRatio": 0.23,
+      "geoEntropy": 0.09
+    },
+    "lastUpdated": "2026-02-07T13:53:29.520219"
+  },
+  {
+    "userId": "USR-052",
+    "accountType": "RETIRED",
+    "baseline": {
+      "avgAmount": 211.89,
+      "stdAmount": 156.99,
+      "txPerDay": 0.55,
+      "nightRatio": 0.33,
+      "newRecipientRatio": 0.12,
+      "geoEntropy": 0.1
+    },
+    "lastUpdated": "2026-02-07T13:53:29.548703"
+  },
+  {
+    "userId": "USR-053",
+    "accountType": "RETIRED",
+    "baseline": {
+      "avgAmount": 242.71,
+      "stdAmount": 242.55,
+      "txPerDay": 0.55,
+      "nightRatio": 0.28,
+      "newRecipientRatio": 0.2,
+      "geoEntropy": 0.92
+    },
+    "lastUpdated": "2026-02-07T13:53:29.579509"
+  },
+  {
+    "userId": "USR-054",
+    "accountType": "RETIRED",
+    "baseline": {
+      "avgAmount": 203.46,
+      "stdAmount": 64.81,
+      "txPerDay": 0.55,
+      "nightRatio": 0.31,
+      "newRecipientRatio": 0.18,
+      "geoEntropy": 0.94
+    },
+    "lastUpdated": "2026-02-07T13:53:29.609272"
+  },
+  {
+    "userId": "USR-055",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2270.64,
+      "stdAmount": 1691.59,
+      "txPerDay": 0.55,
+      "nightRatio": 0.28,
+      "newRecipientRatio": 0.23,
+      "geoEntropy": 0.07
+    },
+    "lastUpdated": "2026-02-07T13:53:29.641185"
+  },
+  {
+    "userId": "USR-056",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2299.24,
+      "stdAmount": 2365.72,
+      "txPerDay": 0.55,
+      "nightRatio": 0.35,
+      "newRecipientRatio": 0.2,
+      "geoEntropy": 0.12
+    },
+    "lastUpdated": "2026-02-07T13:53:29.672190"
+  },
+  {
+    "userId": "USR-057",
+    "accountType": "FINANCE",
+    "baseline": {
+      "avgAmount": 1833.09,
+      "stdAmount": 1571.6,
+      "txPerDay": 0.55,
+      "nightRatio": 0.3,
+      "newRecipientRatio": 0.23,
+      "geoEntropy": 0.09
+    },
+    "lastUpdated": "2026-02-07T13:53:29.702981"
+  },
+  {
+    "userId": "USR-058",
+    "accountType": "FINANCE",
+    "baseline": {
+      "avgAmount": 1671.88,
+      "stdAmount": 1365.77,
+      "txPerDay": 0.55,
+      "nightRatio": 0.33,
+      "newRecipientRatio": 0.17,
+      "geoEntropy": 0.08
+    },
+    "lastUpdated": "2026-02-07T13:53:29.733081"
+  },
+  {
+    "userId": "USR-059",
+    "accountType": "FINANCE",
+    "baseline": {
+      "avgAmount": 1872.93,
+      "stdAmount": 2097.54,
+      "txPerDay": 0.55,
+      "nightRatio": 0.32,
+      "newRecipientRatio": 0.16,
+      "geoEntropy": 0.14
+    },
+    "lastUpdated": "2026-02-07T13:53:29.763019"
+  },
+  {
+    "userId": "USR-060",
+    "accountType": "FINANCE",
+    "baseline": {
+      "avgAmount": 1598.33,
+      "stdAmount": 888.53,
+      "txPerDay": 0.55,
+      "nightRatio": 0.27,
+      "newRecipientRatio": 0.2,
+      "geoEntropy": 0.07
+    },
+    "lastUpdated": "2026-02-07T13:53:29.793454"
+  },
+  {
+    "userId": "USR-061",
+    "accountType": "STUDENT",
+    "baseline": {
+      "avgAmount": 120.29,
+      "stdAmount": 114.93,
+      "txPerDay": 0.55,
+      "nightRatio": 0.34,
+      "newRecipientRatio": 0.24,
+      "geoEntropy": 0.92
+    },
+    "lastUpdated": "2026-02-07T13:53:29.825126"
+  },
+  {
+    "userId": "USR-062",
+    "accountType": "FINANCE",
+    "baseline": {
+      "avgAmount": 1738.39,
+      "stdAmount": 1633.25,
+      "txPerDay": 0.55,
+      "nightRatio": 0.32,
+      "newRecipientRatio": 0.26,
+      "geoEntropy": 0.07
+    },
+    "lastUpdated": "2026-02-07T13:53:29.858422"
+  },
+  {
+    "userId": "USR-063",
+    "accountType": "FINANCE",
+    "baseline": {
+      "avgAmount": 1689.92,
+      "stdAmount": 1296.39,
+      "txPerDay": 0.55,
+      "nightRatio": 0.26,
+      "newRecipientRatio": 0.2,
+      "geoEntropy": 0.09
+    },
+    "lastUpdated": "2026-02-07T13:53:29.889827"
+  },
+  {
+    "userId": "USR-064",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2327.17,
+      "stdAmount": 1926.7,
+      "txPerDay": 0.55,
+      "nightRatio": 0.32,
+      "newRecipientRatio": 0.21,
+      "geoEntropy": 0.1
+    },
+    "lastUpdated": "2026-02-07T13:53:29.922095"
+  },
+  {
+    "userId": "USR-065",
+    "accountType": "RETIRED",
+    "baseline": {
+      "avgAmount": 231.99,
+      "stdAmount": 193.58,
+      "txPerDay": 0.55,
+      "nightRatio": 0.29,
+      "newRecipientRatio": 0.2,
+      "geoEntropy": 0.09
+    },
+    "lastUpdated": "2026-02-07T13:53:29.953700"
+  },
+  {
+    "userId": "USR-066",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2400.36,
+      "stdAmount": 2341.25,
+      "txPerDay": 0.55,
+      "nightRatio": 0.27,
+      "newRecipientRatio": 0.19,
+      "geoEntropy": 0.14
+    },
+    "lastUpdated": "2026-02-07T13:53:29.984714"
+  },
+  {
+    "userId": "USR-067",
+    "accountType": "RETIRED",
+    "baseline": {
+      "avgAmount": 214.28,
+      "stdAmount": 133.61,
+      "txPerDay": 0.55,
+      "nightRatio": 0.29,
+      "newRecipientRatio": 0.2,
+      "geoEntropy": 0.9
+    },
+    "lastUpdated": "2026-02-07T13:53:30.022210"
+  },
+  {
+    "userId": "USR-068",
+    "accountType": "FINANCE",
+    "baseline": {
+      "avgAmount": 1829.34,
+      "stdAmount": 2379.94,
+      "txPerDay": 0.55,
+      "nightRatio": 0.36,
+      "newRecipientRatio": 0.21,
+      "geoEntropy": 0.12
+    },
+    "lastUpdated": "2026-02-07T13:53:30.052461"
+  },
+  {
+    "userId": "USR-069",
+    "accountType": "FINANCE",
+    "baseline": {
+      "avgAmount": 1707.03,
+      "stdAmount": 1273.7,
+      "txPerDay": 0.55,
+      "nightRatio": 0.27,
+      "newRecipientRatio": 0.15,
+      "geoEntropy": 0.1
+    },
+    "lastUpdated": "2026-02-07T13:53:30.081388"
+  },
+  {
+    "userId": "USR-070",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2549.11,
+      "stdAmount": 2914.9,
+      "txPerDay": 0.55,
+      "nightRatio": 0.3,
+      "newRecipientRatio": 0.26,
+      "geoEntropy": 0.96
+    },
+    "lastUpdated": "2026-02-07T13:53:30.113496"
+  },
+  {
+    "userId": "USR-071",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2140.37,
+      "stdAmount": 1037.58,
+      "txPerDay": 0.55,
+      "nightRatio": 0.31,
+      "newRecipientRatio": 0.2,
+      "geoEntropy": 0.09
+    },
+    "lastUpdated": "2026-02-07T13:53:30.144361"
+  },
+  {
+    "userId": "USR-072",
+    "accountType": "STUDENT",
+    "baseline": {
+      "avgAmount": 120.86,
+      "stdAmount": 133.53,
+      "txPerDay": 0.55,
+      "nightRatio": 0.23,
+      "newRecipientRatio": 0.21,
+      "geoEntropy": 0.92
+    },
+    "lastUpdated": "2026-02-07T13:53:30.176152"
+  },
+  {
+    "userId": "USR-073",
+    "accountType": "RETIRED",
+    "baseline": {
+      "avgAmount": 233.94,
+      "stdAmount": 213.5,
+      "txPerDay": 0.55,
+      "nightRatio": 0.26,
+      "newRecipientRatio": 0.2,
+      "geoEntropy": 0.94
+    },
+    "lastUpdated": "2026-02-07T13:53:30.206994"
+  },
+  {
+    "userId": "USR-074",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2329.65,
+      "stdAmount": 2218.08,
+      "txPerDay": 0.55,
+      "nightRatio": 0.34,
+      "newRecipientRatio": 0.19,
+      "geoEntropy": 0.93
+    },
+    "lastUpdated": "2026-02-07T13:53:30.236595"
+  },
+  {
+    "userId": "USR-075",
+    "accountType": "STUDENT",
+    "baseline": {
+      "avgAmount": 108.47,
+      "stdAmount": 58.26,
+      "txPerDay": 0.55,
+      "nightRatio": 0.32,
+      "newRecipientRatio": 0.23,
+      "geoEntropy": 0.93
+    },
+    "lastUpdated": "2026-02-07T13:53:30.266605"
+  },
+  {
+    "userId": "USR-076",
+    "accountType": "STUDENT",
+    "baseline": {
+      "avgAmount": 122.46,
+      "stdAmount": 112.71,
+      "txPerDay": 0.55,
+      "nightRatio": 0.33,
+      "newRecipientRatio": 0.21,
+      "geoEntropy": 0.09
+    },
+    "lastUpdated": "2026-02-07T13:53:30.295552"
+  },
+  {
+    "userId": "USR-077",
+    "accountType": "FINANCE",
+    "baseline": {
+      "avgAmount": 1648.0,
+      "stdAmount": 1449.35,
+      "txPerDay": 0.55,
+      "nightRatio": 0.33,
+      "newRecipientRatio": 0.22,
+      "geoEntropy": 0.94
+    },
+    "lastUpdated": "2026-02-07T13:53:30.328362"
+  },
+  {
+    "userId": "USR-078",
+    "accountType": "RETIRED",
+    "baseline": {
+      "avgAmount": 217.99,
+      "stdAmount": 159.99,
+      "txPerDay": 0.55,
+      "nightRatio": 0.28,
+      "newRecipientRatio": 0.15,
+      "geoEntropy": 0.06
+    },
+    "lastUpdated": "2026-02-07T13:53:30.357855"
+  },
+  {
+    "userId": "USR-079",
+    "accountType": "RETIRED",
+    "baseline": {
+      "avgAmount": 224.86,
+      "stdAmount": 155.17,
+      "txPerDay": 0.55,
+      "nightRatio": 0.32,
+      "newRecipientRatio": 0.18,
+      "geoEntropy": 0.08
+    },
+    "lastUpdated": "2026-02-07T13:53:30.389428"
+  },
+  {
+    "userId": "USR-080",
+    "accountType": "FINANCE",
+    "baseline": {
+      "avgAmount": 1734.16,
+      "stdAmount": 1258.41,
+      "txPerDay": 0.55,
+      "nightRatio": 0.3,
+      "newRecipientRatio": 0.17,
+      "geoEntropy": 0.92
+    },
+    "lastUpdated": "2026-02-07T13:53:30.424378"
+  },
+  {
+    "userId": "USR-081",
+    "accountType": "STUDENT",
+    "baseline": {
+      "avgAmount": 118.6,
+      "stdAmount": 125.56,
+      "txPerDay": 0.55,
+      "nightRatio": 0.32,
+      "newRecipientRatio": 0.21,
+      "geoEntropy": 0.09
+    },
+    "lastUpdated": "2026-02-07T13:53:30.455486"
+  },
+  {
+    "userId": "USR-082",
+    "accountType": "STUDENT",
+    "baseline": {
+      "avgAmount": 107.2,
+      "stdAmount": 90.69,
+      "txPerDay": 0.55,
+      "nightRatio": 0.35,
+      "newRecipientRatio": 0.19,
+      "geoEntropy": 0.09
+    },
+    "lastUpdated": "2026-02-07T13:53:30.486451"
+  },
+  {
+    "userId": "USR-083",
+    "accountType": "STUDENT",
+    "baseline": {
+      "avgAmount": 100.76,
+      "stdAmount": 39.33,
+      "txPerDay": 0.55,
+      "nightRatio": 0.27,
+      "newRecipientRatio": 0.22,
+      "geoEntropy": 0.07
+    },
+    "lastUpdated": "2026-02-07T13:53:30.519919"
+  },
+  {
+    "userId": "USR-084",
+    "accountType": "RETIRED",
+    "baseline": {
+      "avgAmount": 236.73,
+      "stdAmount": 197.93,
+      "txPerDay": 0.55,
+      "nightRatio": 0.34,
+      "newRecipientRatio": 0.21,
+      "geoEntropy": 0.14
+    },
+    "lastUpdated": "2026-02-07T13:53:30.551567"
+  },
+  {
+    "userId": "USR-085",
+    "accountType": "FINANCE",
+    "baseline": {
+      "avgAmount": 1771.63,
+      "stdAmount": 1360.82,
+      "txPerDay": 0.55,
+      "nightRatio": 0.29,
+      "newRecipientRatio": 0.2,
+      "geoEntropy": 0.07
+    },
+    "lastUpdated": "2026-02-07T13:53:30.582689"
+  },
+  {
+    "userId": "USR-086",
+    "accountType": "STUDENT",
+    "baseline": {
+      "avgAmount": 103.29,
+      "stdAmount": 48.64,
+      "txPerDay": 0.55,
+      "nightRatio": 0.28,
+      "newRecipientRatio": 0.23,
+      "geoEntropy": 0.08
+    },
+    "lastUpdated": "2026-02-07T13:53:30.612852"
+  },
+  {
+    "userId": "USR-087",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2208.85,
+      "stdAmount": 1682.78,
+      "txPerDay": 0.55,
+      "nightRatio": 0.22,
+      "newRecipientRatio": 0.23,
+      "geoEntropy": 0.12
+    },
+    "lastUpdated": "2026-02-07T13:53:30.643265"
+  },
+  {
+    "userId": "USR-088",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2248.63,
+      "stdAmount": 1803.36,
+      "txPerDay": 0.55,
+      "nightRatio": 0.29,
+      "newRecipientRatio": 0.24,
+      "geoEntropy": 0.1
+    },
+    "lastUpdated": "2026-02-07T13:53:30.676024"
+  },
+  {
+    "userId": "USR-089",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2442.35,
+      "stdAmount": 2389.83,
+      "txPerDay": 0.55,
+      "nightRatio": 0.28,
+      "newRecipientRatio": 0.15,
+      "geoEntropy": 0.09
+    },
+    "lastUpdated": "2026-02-07T13:53:30.706116"
+  },
+  {
+    "userId": "USR-090",
+    "accountType": "RETIRED",
+    "baseline": {
+      "avgAmount": 198.56,
+      "stdAmount": 68.37,
+      "txPerDay": 0.55,
+      "nightRatio": 0.3,
+      "newRecipientRatio": 0.2,
+      "geoEntropy": 0.9
+    },
+    "lastUpdated": "2026-02-07T13:53:30.737248"
+  },
+  {
+    "userId": "USR-091",
+    "accountType": "FINANCE",
+    "baseline": {
+      "avgAmount": 1702.39,
+      "stdAmount": 1397.38,
+      "txPerDay": 0.55,
+      "nightRatio": 0.35,
+      "newRecipientRatio": 0.18,
+      "geoEntropy": 0.94
+    },
+    "lastUpdated": "2026-02-07T13:53:30.769211"
+  },
+  {
+    "userId": "USR-092",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2385.0,
+      "stdAmount": 2556.51,
+      "txPerDay": 0.55,
+      "nightRatio": 0.28,
+      "newRecipientRatio": 0.21,
+      "geoEntropy": 0.91
+    },
+    "lastUpdated": "2026-02-07T13:53:30.800399"
+  },
+  {
+    "userId": "USR-093",
+    "accountType": "FINANCE",
+    "baseline": {
+      "avgAmount": 1627.38,
+      "stdAmount": 1388.73,
+      "txPerDay": 0.55,
+      "nightRatio": 0.34,
+      "newRecipientRatio": 0.19,
+      "geoEntropy": 0.92
+    },
+    "lastUpdated": "2026-02-07T13:53:30.837558"
+  },
+  {
+    "userId": "USR-094",
+    "accountType": "RETIRED",
+    "baseline": {
+      "avgAmount": 239.39,
+      "stdAmount": 250.79,
+      "txPerDay": 0.55,
+      "nightRatio": 0.24,
+      "newRecipientRatio": 0.21,
+      "geoEntropy": 0.17
+    },
+    "lastUpdated": "2026-02-07T13:53:30.869631"
+  },
+  {
+    "userId": "USR-095",
+    "accountType": "STUDENT",
+    "baseline": {
+      "avgAmount": 111.45,
+      "stdAmount": 98.62,
+      "txPerDay": 0.55,
+      "nightRatio": 0.27,
+      "newRecipientRatio": 0.17,
+      "geoEntropy": 0.1
+    },
+    "lastUpdated": "2026-02-07T13:53:30.900413"
+  },
+  {
+    "userId": "USR-096",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2065.84,
+      "stdAmount": 914.7,
+      "txPerDay": 0.55,
+      "nightRatio": 0.27,
+      "newRecipientRatio": 0.17,
+      "geoEntropy": 0.9
+    },
+    "lastUpdated": "2026-02-07T13:53:30.931575"
+  },
+  {
+    "userId": "USR-097",
+    "accountType": "MANAGER",
+    "baseline": {
+      "avgAmount": 2233.56,
+      "stdAmount": 1414.54,
+      "txPerDay": 0.55,
+      "nightRatio": 0.32,
+      "newRecipientRatio": 0.21,
+      "geoEntropy": 0.09
+    },
+    "lastUpdated": "2026-02-07T13:53:30.962603"
+  },
+  {
+    "userId": "USR-098",
+    "accountType": "RETIRED",
+    "baseline": {
+      "avgAmount": 229.82,
+      "stdAmount": 191.79,
+      "txPerDay": 0.55,
+      "nightRatio": 0.28,
+      "newRecipientRatio": 0.18,
+      "geoEntropy": 0.1
+    },
+    "lastUpdated": "2026-02-07T13:53:30.993299"
+  },
+  {
+    "userId": "USR-099",
+    "accountType": "FINANCE",
+    "baseline": {
+      "avgAmount": 1538.79,
+      "stdAmount": 1111.02,
+      "txPerDay": 0.55,
+      "nightRatio": 0.27,
+      "newRecipientRatio": 0.22,
+      "geoEntropy": 0.1
+    },
+    "lastUpdated": "2026-02-07T13:53:31.028107"
+  },
+  {
+    "userId": "USR-100",
+    "accountType": "FINANCE",
+    "baseline": {
+      "avgAmount": 1603.4,
+      "stdAmount": 848.15,
+      "txPerDay": 0.55,
+      "nightRatio": 0.26,
+      "newRecipientRatio": 0.2,
+      "geoEntropy": 0.93
+    },
+    "lastUpdated": "2026-02-07T13:53:31.058712"
+  }
+]
