@@ -3,6 +3,7 @@ const bodyParser = require("body-parser");
 const { spawn } = require("child_process");
 const fs = require("fs");
 const path = require("path");
+const userRouter = require("./routes/users");
 
 const app = express();
 app.use(bodyParser.json());
@@ -27,7 +28,6 @@ app.post("/api/transaction/check", (req, res) => {
     });
   }
 
-  // ✅ Use pyPath here, not `path`
   const py = spawn("python", [pyPath, payload]);
 
   let stdout = "";
@@ -62,6 +62,10 @@ app.post("/api/transaction/check", (req, res) => {
   });
 });
 
-app.listen(3000, () => console.log("Server running on port 3000"));
+// New user router
+
+app.use("/api/users", userRouter);
+
+app.listen(4000, () => console.log("Server running on port 4000"));
 
 
